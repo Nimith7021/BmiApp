@@ -1,0 +1,7 @@
+C:\Users\nimith.shetty\Desktop\AproSCM\BmiApplication\bin\Debug\BmiApplication.exe.config
+C:\Users\nimith.shetty\Desktop\AproSCM\BmiApplication\bin\Debug\BmiApplication.exe
+C:\Users\nimith.shetty\Desktop\AproSCM\BmiApplication\bin\Debug\BmiApplication.pdb
+C:\Users\nimith.shetty\Desktop\AproSCM\BmiApplication\obj\Debug\BmiApplication.csproj.AssemblyReference.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\BmiApplication\obj\Debug\BmiApplication.csproj.CoreCompileInputs.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\BmiApplication\obj\Debug\BmiApplication.exe
+C:\Users\nimith.shetty\Desktop\AproSCM\BmiApplication\obj\Debug\BmiApplication.pdb

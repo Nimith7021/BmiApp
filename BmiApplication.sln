@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BmiApplication", "BmiApplication.csproj", "{60997599-6D6D-473D-856C-304D01A88118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumeration", "..\Enumeration\Enumeration.csproj", "{DEF56F1D-0414-454B-B021-828775A18FDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60997599-6D6D-473D-856C-304D01A88118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60997599-6D6D-473D-856C-304D01A88118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60997599-6D6D-473D-856C-304D01A88118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60997599-6D6D-473D-856C-304D01A88118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF56F1D-0414-454B-B021-828775A18FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF56F1D-0414-454B-B021-828775A18FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF56F1D-0414-454B-B021-828775A18FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF56F1D-0414-454B-B021-828775A18FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19B806B5-9478-425F-850F-10A93FCA00D3}
+	EndGlobalSection
+EndGlobal
